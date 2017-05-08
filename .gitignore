@@ -3,3 +3,5 @@
 *.test
 *.swp
 out/
+src/Temp.java
+src/Main.java
